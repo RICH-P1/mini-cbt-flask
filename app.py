@@ -52,6 +52,11 @@ questions = [
         "question": "What does CPU stand for?",
         "options": ["Central Processing Unit","Computer Personal Unit","Central Power Unit","Control Processing Unit"],
         "answer": "Central Processing Unit"
+    },
+    {
+    "question": "Which protocol is used to load web pages?",
+    "options": ["FTP","HTTP","SMTP","SSH"],
+    "answer": "HTTP"
     }
 ]
 
