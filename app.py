@@ -62,6 +62,21 @@ questions = [
     "question": "What does IP stand for in internet terminology?",
     "options": ["internet patg","internet provider","internet protocol","internet process"],
     "answer": "internet protocol"
+    },
+    {
+    "question": "Which of these is the correct file extension for a Python file?",
+    "options": [".java", ".py", ".html", ".txt"],
+    "answer": ".py"
+    },
+    {
+    "question": "What does the '=' operator do in most programming languages?",
+    "options": ["Checks if values are equal", "Assigns a value to a variable", "Adds two numbers", "Deletes a variable"],
+    "answer": "Assigns a value to a variable"
+    },
+    {
+    "question": "Which symbol is used to start a comment in Python?",
+    "options": ["//", "/*", "#", "<!--"],
+    "answer": "#"
     }
 ]
 
