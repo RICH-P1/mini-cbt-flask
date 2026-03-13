@@ -83,3 +83,5 @@ if __name__ == "__main__":
     app.run(debug=True)
 
 # List of CBT questions
+
+# calculate user score
