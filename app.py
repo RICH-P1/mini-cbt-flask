@@ -57,6 +57,11 @@ questions = [
     "question": "Which protocol is used to load web pages?",
     "options": ["FTP","HTTP","SMTP","SSH"],
     "answer": "HTTP"
+    },
+    {
+    "question": "What does IP stand for in internet terminology?",
+    "options": ["internet patg","internet provider","internet protocol","internet process"],
+    "answer": "internet protocol"
     }
 ]
 
