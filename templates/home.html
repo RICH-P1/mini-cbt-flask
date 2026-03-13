@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Mini CBT Test</title>
+</head>
+
+<body>
+
+<h1>Mini CBT Test</h1>
+
+<form method="POST">
+
+{% for q in questions %}
+
+<p>{{ q.question }}</p>
+
+{% set q_index = loop.index0 %}
+
+{% for option in q.options %}
+
+<input type="radio" name="q{{ q_index }}" value="{{ option }}">
+{{ option }}
+<br>
+
+{% endfor %}
+
+{% endfor %}
+
+<br>
+
+<button type="submit">Submit</button>
+
+</form>
+
+</body>
+</html>
