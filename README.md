@@ -6,3 +6,9 @@ Patrick Madu
 1.Run python app.py
 2.Open http://127.0.0.1:5000
 3.Take the CBT test
+## Project Description 
+This project is part of a programming assignment using Flask.
+## Technologies
+python
+Flask
+HTML
