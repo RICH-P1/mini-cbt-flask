@@ -1,4 +1,4 @@
-# mini-cbt-flask
+# Online CBT Application Using FlaskS
 Mini CBT web application built with Flask for a programming assignment
 ## Author
 Patrick Madu
