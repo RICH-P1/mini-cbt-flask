@@ -12,3 +12,5 @@ This project is part of a programming assignment using Flask.
 python
 Flask
 HTML
+## Version
+1.0
